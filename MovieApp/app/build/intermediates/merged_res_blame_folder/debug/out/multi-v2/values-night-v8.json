@@ -1,0 +1,79 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\hp\\Documents\\Repos\\movieapp-android\\MovieApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\hp\\.gradle\\caches\\transforms-2\\files-2.1\\4f9c7f78c15bb692cf0895b881aafbad\\appcompat-1.2.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,687",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,771"
+                    },
+                    "to": {
+                        "startLines": "10,11,12,13,14,15,16,46",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "558,628,712,796,892,994,1096,3772",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "623,707,791,887,989,1091,1185,3856"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\hp\\.gradle\\caches\\transforms-2\\files-2.1\\c63d4a666c0a1ba98c2e2f24b9638d9e\\material-1.2.1\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,143,267,369,471,587,689,803,931,1047,1169,1305,1425,1559,1679,1791,1917,2055,2179,2309,2431,2569,2685",
+                        "endColumns": "87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,137,123,129,121,137,115,119",
+                        "endOffsets": "138,262,364,466,582,684,798,926,1042,1164,1300,1420,1554,1674,1786,1912,2050,2174,2304,2426,2564,2680,2800"
+                    },
+                    "to": {
+                        "startLines": "17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,47,48,49,50,51,52,53",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1190,1278,1402,1504,1606,1722,1824,1938,2066,2182,2304,2440,2560,2694,2814,2926,3861,3999,4123,4253,4375,4513,4629",
+                        "endColumns": "87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,137,123,129,121,137,115,119",
+                        "endOffsets": "1273,1397,1499,1601,1717,1819,1933,2061,2177,2299,2435,2555,2689,2809,2921,3047,3994,4118,4248,4370,4508,4624,4744"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\hp\\Documents\\Repos\\movieapp-android\\MovieApp\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "102",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "831"
+                    },
+                    "to": {
+                        "startLines": "33",
+                        "startColumns": "4",
+                        "startOffsets": "3052",
+                        "endLines": "45",
+                        "endColumns": "12",
+                        "endOffsets": "3767"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\hp\\Documents\\Repos\\movieapp-android\\MovieApp\\app\\src\\main\\res\\values-night\\strings.xml",
+                    "from": {
+                        "startLines": "1,8,4,2,5,3,7,6",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "17,435,200,64,268,130,389,326",
+                        "endColumns": "45,46,66,64,56,68,44,61",
+                        "endOffsets": "58,477,262,124,320,194,429,383"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "100,146,193,260,325,382,451,496",
+                        "endColumns": "45,46,66,64,56,68,44,61",
+                        "endOffsets": "141,188,255,320,377,446,491,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

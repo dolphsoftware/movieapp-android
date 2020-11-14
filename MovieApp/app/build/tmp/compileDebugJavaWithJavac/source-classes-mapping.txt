@@ -1,0 +1,26 @@
+com/ritchie/movieapp/ui/MovieDetailsFragment.java
+ com.ritchie.movieapp.ui.MovieDetailsFragment
+com/ritchie/movieapp/ui/watched_movies/adapter/WatchedMoviesAdapter.java
+ com.ritchie.movieapp.ui.watched_movies.adapter.WatchedMoviesAdapter
+ com.ritchie.movieapp.ui.watched_movies.adapter.WatchedMoviesAdapter$WatchedMovieCallback
+com/ritchie/movieapp/BuildConfig.java
+ com.ritchie.movieapp.BuildConfig
+com/ritchie/movieapp/ui/watched_movies/adapter/WatchedMovieViewHolder.java
+ com.ritchie.movieapp.ui.watched_movies.adapter.WatchedMovieViewHolder
+com/ritchie/movieapp/api/ApiService.java
+ com.ritchie.movieapp.api.ApiService
+com/ritchie/movieapp/model/WatchedMovie.java
+ com.ritchie.movieapp.model.WatchedMovie
+com/ritchie/movieapp/ui/SplashActivity.java
+ com.ritchie.movieapp.ui.SplashActivity
+com/ritchie/movieapp/utils/AppConstants.java
+ com.ritchie.movieapp.utils.AppConstants
+com/ritchie/movieapp/ui/MainActivity.java
+ com.ritchie.movieapp.ui.MainActivity
+ com.ritchie.movieapp.ui.MainActivity$1
+com/ritchie/movieapp/ui/MovieSearchFragment.java
+ com.ritchie.movieapp.ui.MovieSearchFragment
+com/ritchie/movieapp/ui/watched_movies/WatchedMoviesFragment.java
+ com.ritchie.movieapp.ui.watched_movies.WatchedMoviesFragment
+com/ritchie/movieapp/ui/SettingsFragment.java
+ com.ritchie.movieapp.ui.SettingsFragment
